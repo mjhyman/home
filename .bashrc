@@ -12,4 +12,3 @@ export home_repo=$HOME"/src/mjhyman/home"
 #read -s PROXY_PASS
 
 echo "Bash customizations loaded successfully!"
-
